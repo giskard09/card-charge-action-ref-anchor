@@ -1,0 +1,23 @@
+{
+  "spec": "action-ref-v1 (draft-etcheverry-action-ref)",
+  "source_spec": "draft-card-charge-00 (tempoxyz/mpp-specs), Receipt Generation example",
+  "card_receipt_example_verbatim": {
+    "challengeId": "ch_9xK2mR4vB7nQ",
+    "method": "card",
+    "status": "success",
+    "reference": "visa_txn_abc123",
+    "timestamp": "2026-02-19T12:05:30Z",
+    "externalId": "order_12345"
+  },
+  "preimage": {
+    "agent_id": "did:example:agent-checkout-001",
+    "action_type": "mpp.card.charge",
+    "scope": {
+      "challengeId": "ch_9xK2mR4vB7nQ",
+      "reference": "visa_txn_abc123",
+      "externalId": "order_12345"
+    },
+    "timestamp": "2026-02-19T12:05:30Z"
+  },
+  "action_ref_v1": "1d99387db8a6c1c1987d9d5e609e6504e7ddfaec5f0ef1b796e5c75eb2edb0d3"
+}
