@@ -19,5 +19,6 @@
     },
     "timestamp": "2026-02-19T12:05:30Z"
   },
-  "action_ref_v1": "1d99387db8a6c1c1987d9d5e609e6504e7ddfaec5f0ef1b796e5c75eb2edb0d3"
+  "action_ref_v1": "1d99387db8a6c1c1987d9d5e609e6504e7ddfaec5f0ef1b796e5c75eb2edb0d3",
+  "anchor_ref_bytes32": "0x1d99387db8a6c1c1987d9d5e609e6504e7ddfaec5f0ef1b796e5c75eb2edb0d3"
 }
